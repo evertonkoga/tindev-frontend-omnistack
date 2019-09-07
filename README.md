@@ -11,6 +11,13 @@
 - Dotenv
 - socket.io-client
 
+## Variáveis de configuração
+Crie um arquivo `.env` na raiz do seu projeto.
+
+`
+REACT_APP_API_URL=https://suaapi.com
+`
+
 ## Como configurar e executar
 
 ```bash
